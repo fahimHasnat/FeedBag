@@ -1,8 +1,7 @@
 # FeedBag
 
 # Description:
- Users can login with google authentication. Users can create and send survey to multiple emails and recieve feedback from them.
- Dashboard shows create button for survey and also the list of previos surveys and total no of yes/no recieved. 
+Users can login with google authentication. Users can create and send survey to multiple emails(comma separated) and recieve feedback from them. Dashboard shows create button for survey and also the list of previos surveys and total no of yes/no recieved. 
               
 # Functionality:
 1. Login with google
